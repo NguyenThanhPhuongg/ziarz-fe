@@ -28,7 +28,7 @@ function Header({ toggleNav }) {
                         <span></span>
                     </div>
                     <div className="header_logo">
-                        <a href=""><img src="/monnica.png" alt=""/></a>
+                        <Link href="/"><img src="/monnica.png" alt=""/></Link>
                     </div>
                     <nav className="header_nav">
                         <ul className="header_menu">

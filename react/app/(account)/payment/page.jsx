@@ -44,7 +44,7 @@ export default function Payment() {
                                 </svg>
                                 Quay lại
                             </Link>
-                            <Link href="cart" className="button button--primary">
+                            <Link href="bill" className="button button--primary">
                                 Đặt hàng
                             </Link>
                         </div>
